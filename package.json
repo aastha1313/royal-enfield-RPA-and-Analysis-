@@ -1,0 +1,8 @@
+{
+  "name": "royal_enfeild",
+  "version": "1.0.0",
+  "description": "dummy package to satisfy Site24x7 APM",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
